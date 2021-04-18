@@ -8,15 +8,15 @@ contain task from DATA ENGINEERING EFISHERY
 this DAG's airflow run with docker, 
 
 prerequisites: 
-    1. (docker installed)[https://docs.docker.com/engine/install/ubuntu/]
-    2. (airflow 2.0.0 or higher)[https://airflow.apache.org/docs/apache-airflow/stable/installation.html] 
+1. (docker installed)[https://docs.docker.com/engine/install/ubuntu/
+2. (airflow 2.0.0 or higher)[https://airflow.apache.org/docs/apache-airflow/stable/installation.html] 
 
 requirement: 
-    1. download file zip and extract on your directory 
-    2. open terminal at file extract
-    3. on your terminal type `docker compose up --build`
-    4. open your browser, go to localhost:8080/ 
-    5. and you have the airflow UI
+1. download file zip and extract on your directory 
+2. open terminal at file extract
+3. on your terminal type `docker compose up --build`
+4. open your browser, go to `localhost:8080/` 
+5. and you have the airflow UI
 
 
 
