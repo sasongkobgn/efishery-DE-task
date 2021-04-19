@@ -30,7 +30,8 @@ prerequitsites:
 
 how to run this program: 
 1. open terminal on folder directories
-2. run ./task2.sh 
+2. make the task2 executeable by running this command `chmod +x task2.sh`
+3. run ./task2.sh 
 
 
 
@@ -39,4 +40,5 @@ how to run this program:
 this program can run on terminal
 
 1. open your terminal at the folder task 3
-2. run `./task3.sh`
+2. make the task3 executeable by running this command `chmod +x task3.sh`
+3. run `./task3.sh`
