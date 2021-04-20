@@ -17,6 +17,7 @@ requirement:
 3. on your terminal type `docker compose up --build`
 4. open your browser, go to `localhost:8080/` 
 5. and you have the airflow UI
+6. push ON the toggle button to activate the DAG's
 
 
 
@@ -42,3 +43,5 @@ this program can run on terminal
 1. open your terminal at the folder task 3
 2. make the task3 executeable by running this command `chmod +x task3.sh`
 3. run `./task3.sh`
+
+
