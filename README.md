@@ -18,6 +18,7 @@ requirement:
 4. open your browser, go to `localhost:8080/` 
 5. and you have the airflow UI
 6. push ON the toggle button to activate the DAG's
+7. to stop docker `docker compose down`
 
 
 
