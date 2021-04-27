@@ -22,7 +22,6 @@ requirement:
 
 
 
-
 # TASK 2 solutions
 
 prerequitsites: 
