@@ -1,0 +1,1055 @@
+,komoditas,berat
+0,"['lele', 'bawal', 'nila']", 6   1   1 
+1,"['kakap', 'lele', 'kembung', 'tongkol', 'salem']", 2   1   1   1   1 
+2,"['nila', 'kakap', 'lele', 'bawal', 'kembung', 'salam']", 1    2 
+3,"['nila', 'kembung', 'tongkol', 'lele', 'bawal']", 1   2   5   2   3 
+4,"['lele', 'kerapu', 'mas', 'pindang', 'tongkol', 'gurame']", 1 
+5,"['patin', 'mas', 'kembung']",rata rata 1 
+6,"['patin', 'kembung', 'lele', 'tongkol', 'bandeng']", 1  
+7,"['mas', 'kembung', 'lele', 'tongkol']", 1 
+8,['lele'],3 
+9,['kembung'],kadang 1  kadang kurang
+10,"['lele', 'mas', 'tongkol', 'kembung', 'bandeng', 'patin']",kurang dari 1 
+11,"['patin', 'bandeng', 'kembung']", 1 
+12,"['mas', 'nila/jaer', 'patin', 'tongkol', 'kembung']", 1 
+13,"['lele', 'patin', 'kembung', 'tongkol', 'bandeng']",kurang lebih 1 
+14,"['mujaer', 'mas']",1 
+15,"['lele', 'mas', 'bandeng', 'tongkol', 'patin']", 1 
+16,"['tongkol', 'salem', 'lele', 'mujaer', 'kakap']", 1 
+17,"['tongkol', 'bawal', 'salem', 'mujair', 'kembung', 'kakap']", 1 
+18,"['tongkol', 'peda']",kurang dari 1 
+19,"['mujaer', 'lele', 'kembung']",kurang dari 1 
+20,"['kembung', 'kepala', 'kakap', 'tongkol']",kurang dari 1 
+21,"['lele', 'dan', 'nila']", 3   2  
+22,"['gurame', 'kakap', 'kerapu', 'bawal']",8  
+23,['lele'],5 
+24,['lele'],5 
+25,['lele'],4-5 
+26,['lele'],2  
+27,['lele'],gak tau kata pegawai nya
+28,['lele'],4 
+29,['lele'],5-6  
+30,['lele'],5 
+31,['lele'],5 
+32,['lele'],2 sampai 3  
+33,"['pindang', 'bandeng', 'lele', 'mas']", kurang dari 1 
+34,"['kembung', 'lele', 'patin', 'kakap', 'salem']", 1 
+35,['lele'],4 sampe 5 
+36,['lele'],4 atau 3 
+37,['lele'],4 sampe 5 
+38,['nila'],1 
+39,['lele'],3 
+40,"['lele', 'nila', 'patin']",kurang dari 1 
+41,"['lele', 'mas']",kurang 1 
+42,['lele'],4 sampe 5 
+43,['lele'],4 sampe 5 
+44,['lele'],3  
+45,['lele'],4 
+46,['lele'],3 sampe 4 
+47,"['lele', 'patin', 'kembung', 'kakap', 'bawal']",rata 1    2 
+48,"['lele', 'nila', 'kembung', 'tongkol']", 2  
+49,"['mas', 'nila', 'tongkol', 'kembung']",kurang dari sekilo rata rata 
+50,"['kembung', 'kakap', 'tongkol', 'mujaer/nila', 'lele', 'mas']",rata rata 1 
+51,['lele'],3 
+52,['lele'],2 sampe 3  
+53,['lele'],4 
+54,['lele'],5 
+55,"['gurami', 'bawal', 'kerapu', 'cumi']", 1 
+56,"['lele', 'kakap', 'gurame', 'bawal']",rata rata 1    3 
+57,['lele'],3 sampe 4 
+58,"['gurame', 'dan', 'bawal']",2  rata rata
+59,['lele'],2  
+60,['lele'],3 
+61,['lele'],3 
+62,"['gurame', 'kakap', 'kerapu']",2  ratarata
+63,['lele'],3 
+64,"['lele', 'patin', 'bawal', 'salem', 'kembung', 'tongkol']",rata rata 2 
+65,"['nila', 'bawal', 'tongkol']",2 
+66,"['bandeng', 'patin', 'kembung', 'mas', 'tongkol']",rata rata 1 
+67,"['lele', 'mas']",1   
+68,"['kembung', 'tongkol', 'bawal', 'lele']",1   rata rata
+69,"['bandeng', 'kembung']",1 
+70,"['lele', 'kembung', 'patin', 'tongkol']",rata rata 1 
+71,"['lele', 'nila', 'mas', 'bawal']", 1 
+72,"['lele', 'kembung', 'bawal', 'nila', 'tongkol']", 1 
+73,"['lele', 'kembung', 'patin', 'nila', 'tongkol', 'mas', 'salem', 'bawal']",rata rata 1 
+74,"['nila', 'mas', 'kembung']",kurang dari 1 
+75,"['lele', 'nila', 'mas', 'bawal', 'tongkol']",kurang dari 1 
+76,"['lele', 'patin', 'bawal', 'kembung', 'kepala', 'kakap', 'tongkol']",1  rata rata
+77,"['lelw', 'patin', 'bawal', 'kembung', 'kakap', 'nila']",1  rata rata
+78,['lele'],2 sampe 3 
+79,['lele'],3 sampe 4 
+80,"['lele', 'bawal', 'patin', 'kakap']",1 
+81,"['gurame', 'bawal', 'bawal', 'kakap', 'cumi']",rata rata 2 
+82,['lele'],2  
+83,['lele'],3 
+84,"['lele', 'kembung', 'nila', 'patin', 'kakap']",1 
+85,"['lele', 'gurame', 'bawal']", 1  gurame 1   3 
+86,['lele'],3 sampe 4  
+87,['lele'],2 sampe 3  
+88,['lele'],5 
+89,"['lele', 'gurame', 'bawal']",1   3 
+90,['lele'],2 sampai 3  
+91,['lele'],2-3 
+92,['lele'],2 sampai 3 
+93,['lele'],3 
+94,"['jaer', 'kembung', 'emas', 'lele', 'bandeng']",1  
+95,"['lele', 'mas', 'jaer', 'kembung']",1 
+96,"['lele', 'patin', 'nila', 'bawal', 'kembung', 'kakap']",rata rata 1 
+97,"['bawal', 'patin', 'kakap', 'kembug', 'lele', 'nila']",kurang dari 1  rata rata
+98,['lele'],4 sampe 5 
+99,"['lele', 'udang', 'kepiting', 'cumi', 'bawal']",2 -3   kepiting dan udang 1 
+100,['lele'],3 
+101,['lele'],3 
+102,"['lele', 'bawal']",1 -3 
+103,['lele'],3 
+104,"['bawal', 'cumi', 'gurame', 'kerang', 'kepiting', 'udang']",2-4 
+105,"['kepiting', 'udang', 'cumi', 'bawal', 'gurame']",2-3 
+106,['lele'],4 sampai 5 
+107,"['kerang', 'kepiting', 'gurame', 'bawal', 'udang', 'cumi']",2-4 
+108,['lele'],3 
+109,"['tongkol', 'kembung', 'nila', 'lele']",1 
+110,"['jaer', 'patin', 'patin', 'mas', 'lele', 'kembung']",2 hari 1  
+111,"['gurame', 'nila', 'kerapu', 'kakap', 'bawal', 'udang', 'cumi', 'kerang']",tidak menentu
+112,"['lele', 'kakap', 'patin', 'bawal']",1  
+113,['tongkol'],setengah kilo
+114,"['patin', 'lele', 'tongkol', 'kembung']",1  rata rata   2  
+115,"['tongkol', 'kakap']",2 
+116,"['tongkol', 'kembung']",1  
+117,"['kakap', 'kembung', 'tongkol', 'patin']",gak nentu
+118,['lele'],3 sampe 4  
+119,"['tongkol', 'kembung', 'lele', 'salem']",1  rata rata
+120,"['kembung', 'patin', 'lele']",setengan kilo
+121,"['lele', 'patin', 'tongkol', 'kakap', 'kembung']",rata rata 1 
+122,"['kembung', 'salem', 'lele']",gak tau katanya cuma jaga warung
+123,['lele'],4 
+124,"['lele', 'kakap', 'patin', 'tongkol', 'kembung']",rata rata 1 
+125,['lele'],1 
+126,['lele'],5  
+127,['lele'],1-2 
+128,['nila'],1-5 
+129,['lele'],15  untuk 2 kios
+130,['kembung'],1-2 
+131,['tongkol'],1-2 
+132,['salem'],1 
+133,['mujair'],1 
+134,['mujair'],1-4 
+135,['salem'],1-4 
+136,['tongkol'],2 
+137,['tongkol'],3-5 
+138,['nila'],3 
+139,['patin'],2 
+140,['mas'],4 
+141,['lele'],2 
+142,['gabus'],1  
+143,['kakap'],1 
+144,['tongkol'],3 
+145,['kakap'],1-4 
+146,['kembung'],3 
+147,"['lele', 'mas', 'kembung', 'patin']",1   kadang kurang dari 1 
+148,"['lele', 'nila', 'mas', 'bawal', 'tongkol', 'kembung']",1  rata rata
+149,"['kembung', 'tongkol', 'lele', 'nila', 'patin']",1 5  
+150,['lele'],3-4 
+151,"['lele', 'parin', 'kakap', 'kembung', 'tongkol']",1 5   ratarata
+152,"['lele', 'kembung', 'nila', 'tongkol']",1  rata
+153,"['nila', 'mas', 'bawal', 'kembung', 'lele']",1  rata rata
+154,['lele'],4 
+155,"['salem', 'kembung', 'tongkol', 'mujaer', 'lele']",3 
+156,"['lele', 'patin', 'tongkol', 'kembung', 'kakap']",1.5   rata rata
+157,['lele'],3-4  
+158,"['kembung', 'lele', 'patin', 'nila', 'kakap']",1  rata rata
+159,['lele'],3 
+160,['lele'],3 
+161,"['lele', 'tongkol', 'patin', 'kakap', 'kembung']",2  kadang 1  masing2
+162,"['kakap', 'bawal', 'gurame', 'udang']",idem yg punyanya nga ada cuma pegawai
+163,"['lele', 'ayam']",5  
+164,['lele'],5 
+165,['lele'],6  
+166,['lele'],6  
+167,['lele'],5  
+168,"['lele', 'nila']",2  
+169,['lele'],4  
+170,"['tongkol', 'patin', 'lele', 'mas']",1/2  
+171,"['laut.', 'tawar']",idem
+172,"['lele', 'patin', 'mas']",1   
+173,['lele'],5  
+174,"['kepiting', 'kerapu', 'kerang', 'udang', 'tawar', 'gurame']",4 - 5  
+175,"['soto', 'ayam', 'babat', 'kikil', 'lele']",7  
+176,"['lele', 'kakap', 'bawal', 'kerapu', 'gurame']",-+ 2  
+177,['lele'],2  
+178,"['sea', 'food']",cumi 1  .   4  .udang cumi 1 
+179,"['kerapu', 'barunang', 'kakap', 'gurame']",3  
+180,['lele'],3  
+181,['mas'],1-2 
+182,['tongkol'],1-2 
+183,['lele'],1 
+184,['mas'],2-4 
+185,['lele'],1-2 
+186,['lele'],3  
+187,"['udang', 'gurame', 'kerapu', 'kakap', 'bawal']",2  per jenis 
+188,['mujaer'],2 
+189,['nila'],2 
+190,['lele'],2  
+191,['patin'],1 
+192,"['pecel', 'lele', 'bebek', 'goreng']",1 sampai 6  
+193,['kakap'],1 
+194,"['lele', 'ayam', 'goreng', 'bebek', 'goreng']",4   per hari
+195,['kembung'],1 
+196,['mas'],1-2
+197,['jambal'],1/2
+198,['tongkol'],1 
+199,['lele'],3-5 
+200,['lele'],1-2 
+201,['nila'],1-2 
+202,['kakap'],2 
+203,['gembung'],2 
+204,['lele'],2-3 
+205,['tongkol'],3 
+206,['kakap'],4 
+207,['nila'],3 
+208,['nila'],2 
+209,['mas'],2-5
+210,['kakap'],3 
+211,['nila'],3-5 
+212,['mujaer'],3 
+213,['lele'],3 
+214,['mas'],5 
+215,['lele'],3 
+216,['nila'],5 
+217,['nila'],3 
+218,['nila'],3 
+219,['gurame'],3 
+220,['patin'],3 
+221,['mujaer'],2-5 
+222,['lele'],3 
+223,['tongkol'],3 
+224,['kakap'],3 
+225,['kembung'],3 
+226,['mas'],3 
+227,['tongkol'],2 
+228,['nila'],2 
+229,['lele'],5 
+230,['mas'],4  
+231,['tongkol'],3 
+232,['lele'],5 
+233,['tongkol'],4 
+234,['mujaer'],3 
+235,['mas'],4 
+236,['mas'],2-5  
+237,['lele'],4-5  
+238,['lele'],3-6  
+239,['mas&mujair'],1-2 
+240,['lele'],1-3 
+241,['mujair'],2-4
+242,['mas'],2-3 
+243,['lele'],1-2 
+244,"['lele', 'dll']",4-6
+245,['gurame'],3-5
+246,['lele'],1-2 
+247,['mas'],2-3 
+248,['lele'],4 
+249,['lele'],5  
+250,['bawal'],2 
+251,['lele'],2-5 
+252,['mas'],1-2 
+253,['tongkol'],2 
+254,['kakap'],3 
+255,['lele'],3 
+256,['lele'],5 
+257,['lele'],6 
+258,['lele'],5 
+259,['lele'],4-6 
+260,['bawal'],3 
+261,['nila'],4 
+262,['lele'],3 
+263,['mas'],4 
+264,['kakap'],3 
+265,['nila'],4 
+266,['bawal'],2 
+267,['lele'],3 
+268,['patin'],3 
+269,['lele'],3-5 
+270,['tongkol'],3 
+271,['kakap'],3 
+272,['mas'],2 
+273,['lele'],3 
+274,"['pecel', 'lele', 'goreng/bakar']",1s.d 1 5  
+275,['mujaer'],3 
+276,['lele'],4 
+277,"['pecel', 'lele.', 'sate', 'usus', 'dll']",1   
+278,['tongkol'],3 
+279,['mas'],5 
+280,['mas'],3 
+281,['lele'],4 
+282,['kakap'],3 
+283,"['nasi', 'uduk', 'pecel', 'lele', 'sotobayam', 'babat', 'udang', 'dll']", 2 sampai 3  
+284,['tongkol'],4 
+285,['nila'],2 
+286,['bawal'],3 
+287,['mas'],5 
+288,['lele'],4 
+289,['kakap'],3 
+290,['gurame'],4 
+291,['nila'],4 
+292,"['laut', 'dan', 'tawar']",1   per hari
+293,['tongkol'],3 
+294,['lele'],3 
+295,"['pecel', 'lele', 'nasi', 'uduk', 'dll']", 3   per hari
+296,['lele'],5 
+297,['lele'],3-6 
+298,"['udang', 'kakap', 'bawal', 'lele', 'nila']",5    perhari semua jenis 
+299,"['laut', 'udang', 'dan', 'tawar']",3    tawar per hari
+300,['mas'],1-2 
+301,['mas'],1-2 
+302,['mas'],1-3 
+303,['lele'],5 
+304,['mas'],3-5 
+305,['mas'],4-5 
+306,['lele'],3-5  
+307,['lele'],5 
+308,['lele'],4 
+309,['lele'],2-4 
+310,['mas'],3 
+311,['lele'],2-3 
+312,['mas'],5 
+313,['tongkol'],3 
+314,['nila'],4g
+315,['mas'],3 
+316,['tongkol'],2 
+317,['mujair'],2 
+318,['mas'],3-5 
+319,['tongkol'],3 
+320,['bawal'],3 
+321,['mas'],4 
+322,['tongkol'],3 
+323,['nila'],3 
+324,['mas'],4 
+325,['lele'],4 
+326,['lele'],5 
+327,['mas'],5 
+328,['tongkol'],4 
+329,['kakap'],3 
+330,['tongkol'],4 
+331,['tongkol'],4 
+332,['mas'],5 
+333,['mujaer'],4 
+334,['lele'],5 
+335,['mas'],2 
+336,['mas'],1 
+337,['lele'],2 
+338,['mas'],3-5 
+339,['mas'],1 
+340,['mas'],1-5 
+341,['mas'],1 
+342,['mas'],1-2 
+343,['lele'],4 
+344,['mas'],3 
+345,['lele'],3-5 
+346,['lele'],2 
+347,['lele'],1 
+348,['lele'],2 
+349,['mas'],1 
+350,"['tongkol', 'lele', 'kakap']",1-5  
+351,"['kakap', 'gurame']",2-5 
+352,"['mas', 'tongkol', 'nila']",2-5 
+353,"['mas', 'munkar', 'nila', 'tongkol']",1-4 
+354,"['mas', 'tongkol', 'patin']",1-4 
+355,"['tongkol', 'kakap', 'lele']",2-5  
+356,"['lele', 'nila', 'mas']",1-4 
+357,"['mas', 'nila', 'gurame', 'kakap']",2-6 
+358,"['gurame', 'kakap', 'mas', 'tongkol']",3-6 
+359,"['mas', 'nila', 'gurame']",1-4
+360,"['mas', 'nila', 'lele', 'patin']",2-6
+361,"['mas', 'kakap', 'tongkol', 'gurame', 'munkar', 'nila', 'lele']",3-6 
+362,"['tongkol', 'kakap']",1-4 
+363,"['lele', 'tongkol', 'mas']",1-4 
+364,"['mas', 'tongkol', 'lele']",1-5 
+365,"['tongkol', 'lele', 'nila']",1-3 
+366,"['mas', 'nila', 'tongkol']",1-5 
+367,"['mas', 'nila', 'lele']",1-4
+368,"['gurame', 'mas', 'nila']",1-5
+369,"['mas', 'nila', 'cakalang']",1-5
+370,"['nila', 'mas']",1-3
+371,"['nila', 'lele']",1-3
+372,"['mas', 'nila', 'lele']",1-5
+373,"['lele', 'nila']",1-5
+374,"['mas', 'nila']",1-3
+375,"['kembung', 'lele', 'nila', 'kakap']",1-5
+376,"['mas', 'nila']",1-3
+377,"['kembung', 'lele']",1-3
+378,"['lele', 'kembung', 'kakap']",1-5
+379,"['lele', 'mas', 'nila']",1-4
+380,"['mas', 'mujair', 'lele']",2  1  3 
+381,"['tongkol', 'lele']",3  2 
+382,"['mas', 'lele', 'tongkol']",3  2  2 
+383,"['tongkol', 'kakap', 'lele']",2  2  2 
+384,['lele'],5 
+385,"['gurame', 'bawal', 'mas', 'nila']",3  2  3  2 
+386,"['gurame', 'nila', 'patin', 'kakap']",2  3  2  2 
+387,['lele'],3-5 
+388,"['lele', 'tongkol', 'nila']",2  3  1 
+389,"['mas', 'bawal', 'gurame', 'nila', 'patin']",3  3  3  2  2 
+390,"['mas', 'tongkol']",2  2 
+391,['lele'],4 
+392,"['lele', 'kembung']",3 3
+393,['lele'],8
+394,['lele'],3-5 
+395,"['lele', 'tongkol']",2  2-3 
+396,"['tongkol', 'lele', 'nila']",3  2  2 
+397,"['mas', 'nila']",2 2
+398,"['lele', 'kembung']",3 3
+399,"['nila', 'lele']",3 3
+400,['lele'],3
+401,"['kembung', 'lele', 'tongkol']",3 2 2
+402,['lele'],10
+403,"['tongkol', 'kembung', 'lele']",3 3 2
+404,['tongkol'],3
+405,"['tongkol', 'mujaer']",2 2
+406,"['tongkol', 'kembung', 'lele', 'nila']",3 3 3 2
+407,"['mujaer', 'nila', 'mas']",2 2 2
+408,"['lele', 'tongkol', 'kakap', 'kembung']",2 3 2 3
+409,"['tongkol', 'kembung', 'kakap', 'lele']",2 3 2 3
+410,"['mas', 'nila', 'lele']",3 3 3
+411,"['lele', 'mujaer', 'nila', 'mas']",5 5 4 4
+412,['lele'],10
+413,"['lele', 'kakap', 'kembung', 'tongkol']",3 2 4 4
+414,"['kembung', 'tongkol', 'lele', 'kakap']",4 4 3 2
+415,"['kembung', 'tongkol', 'lele', 'nila']",4 3 3 3
+416,"['mas', 'nila', 'lele', 'tongkol', 'kembung']",3 3 3 4 4
+417,"['mas', 'nila', 'majaer', 'tongkol']",3 3 3 3
+418,"['mas', 'mujaer', 'nila', 'lele']",3 3 3 3
+419,"['kembung', 'tongkol', 'mas', 'lele', 'mujaer']",3 3 2 3 3
+420,"['tongkol', 'kembung', 'lele', 'kakap', 'nila']",3 4 3 3 3
+421,"['gurame', 'nila', 'mas', 'mujaer', 'lele']",5 4 4 5 5
+422,"['mas', 'lele', 'mujaer']",4 4 4
+423,"['mas', 'mujaer', 'gurame']",3 4 4
+424,"['mas', 'gurame', 'nila', 'lele']",5 5 6 7
+425,['lele'],4 
+426,"['mas', 'mujair', 'nila', 'lele']",3  3  3  3 
+427,"['mas', 'nila']",4  3 
+428,"['mas', 'lele', 'mujair']",4  6  5 
+429,"['mas', 'lele', 'nila']",5  4  3 
+430,"['mas', 'lele', 'nila', 'gurame']",7  7  5  6 
+431,"['mas', 'lele', 'mujair']",6  6  6 
+432,"['mas', 'lele', 'gurame']",7  7  6 
+433,"['lele', 'mas', 'gurame']",7  7  6 
+434,"['lele', 'mas', 'mujair']",7  7  6 
+435,"['mas', 'lele']",7  6 
+436,"['mas', 'lele', 'mujir']",6  7  5 
+437,"['mas', 'lele']",8  7 
+438,"['mas', 'lele', 'mujair']",7  5  5 
+439,"['mas', 'lele', 'nila']",6  7  6 
+440,"['mas', 'nila', 'patin']",8  6  6 
+441,"['mas', 'nila', 'lele']",8  7  7 
+442,"['gurame', 'nila', 'lele']",5 4 4
+443,['lele'],7
+444,"['mas', 'lele']",8  8 
+445,"['mas', 'lele', 'nila']",8  7  7g
+446,['mas'],8 
+447,['mas'],8 
+448,"['lele', 'nila']",5 5
+449,"['lele', 'kakap', 'tongkol', 'kerapu']",4 5 4 4
+450,"['tongkol', 'kembung', 'lele', 'nila']",3 4 3 3
+451,"['mas', 'lele']",6  6 
+452,"['lele', 'kembung', 'tongkol', 'nila', 'kakap']",4 4 4 3 4
+453,"['mas', 'lele']",7  7 
+454,"['mas', 'nila', 'lele']",10  6  8 
+455,"['mas', 'nila', 'lele', 'gurame']",8  5  7  6 
+456,['mas'],10 
+457,['mas'],10 
+458,"['mas', 'nila', 'lele']",8  6  10 
+459,"['lele', 'mas']",8  8 
+460,['mas'],10 
+461,"['mas', 'nila', 'mujaer', 'lele', 'tongkol']",3 3 3 2 2
+462,"['mas', 'mujaer', 'nila', 'gurame', 'lele']",4 4 4 5 4
+463,"['nila', 'mas', 'mujaer', 'lele']",4 5 5 5
+464,"['mas', 'lele', 'nila', 'mujaer']",4 5 5 5
+465,"['gurame', 'mas', 'nila', 'lele', 'kembung', 'tongkol', 'mujaer']",5 4 4 5 5 5 4
+466,"['mas', 'lele', 'mujaer']",5 5 5
+467,"['mas', 'lele', 'mujaer', 'gurame']",4 4 5 5
+468,"['gurame', 'mujaer', 'lele', 'nila']",5 4 4 4
+469,"['gurame', 'nila', 'lele', 'mas', 'mujaer']",4 5 5 5 5
+470,"['kembung', 'tongkol', 'lele']",3 3 3
+471,"['mas', 'mujaer', 'lele', 'tongkol']",3 3 3 3
+472,['lele'],7
+473,"['lele', 'kembung', 'tongkol']",3 3 4
+474,['lele'],6
+475,"['gurame', 'mujaer', 'lele', 'kakap', 'kerapu', 'nila']",5 5 4 4 3 4
+476,"['kerapu', 'kakap', 'gurame', 'lele', 'tongkol']",4 4 4 5 4
+477,"['mas', 'nila', 'mujaer', 'lele', 'tongkol']",4 4 4 4 4
+478,['mas'],6 
+479,['lele'],10  
+480,"['kakap', 'lele', 'kembung', 'tongkol']",4 4 5 4
+481,['lele'],10 
+482,"['mas', 'lele']",7  6 
+483,"['tongkol', 'lele', 'nila']",6  7  5 
+484,"['gurame', 'mujaer', 'nila', 'lele', 'mas']",3 3 3 4 3
+485,['lele'],6
+486,"['gurame', 'nila', 'patin', 'mas', 'kakap']",12  8  8  10  8 
+487,"['lele', 'mas', 'mujair']",10  10  8 
+488,['lele'],6
+489,['lele'],12 
+490,"['mas', 'mujaer', 'nila', 'lele']",2 3 2 3
+491,"['mas', 'gurame', 'nila', 'kakap', 'mujair']",10  8  8  6  10 
+492,"['tongkol', 'kakap', 'nila', 'lele']",7  5  6  8 
+493,"['mas', 'lele', 'mujaer', 'nila', 'tongkol']",2 3 2 2 3
+494,"['mas', 'lele']",8  8 
+495,"['mas', 'mujaer', 'lele', 'tongkol']",2 2 2 2
+496,['lele'],6
+497,"['mas', 'lele']",10  8 
+498,"['tongkol', 'lele']",8  10 
+499,"['tongkol', 'nila', 'lele']",8  5  8 
+500,"['mujaer', 'nila', 'lele', 'mas']",3 3 3 3
+501,"['gurame', 'nila', 'mas', 'patin', 'kakap', 'mujair']",10  10  10  8  8  8 
+502,"['lele', 'kembung', 'tongkol']",2 2 2
+503,"['kakap', 'tongkol', 'lele']",4 3 4
+504,"['mas', 'mujaer', 'lele', 'tongkol']",5 3 6 4
+505,['lele'],8
+506,"['mas', 'lele', 'mujaer']",6 3 3
+507,"['mas', 'nila', 'tongkol']",4 4 6
+508,['lele'],9
+509,"['kakap', 'kembung', 'tongkol', 'mas']",3 3 6 4
+510,"['mas', 'nila', 'tongkol']",5 4 3
+511,['lele'],9
+512,"['krapu', 'kakap', 'tongkol', 'lele']",6 5 5 4
+513,"['mas', 'mujaer', 'lele', 'nila']",5 3 5 4
+514,['lele'],9
+515,"['mas', 'mujaer']",6 4
+516,['lele'],8
+517,"['kembung', 'tongkol', 'mas']",5 3 4
+518,['lele'],6
+519,['laut'],10
+520,['mas'],5
+521,"['tongkol', 'lele', 'kakap']",5
+522,['lele'],5
+523,"['mas', 'mujair']",5
+524,['laut'],5
+525,"['mas', 'mujair']",5
+526,"['mas', 'lele']",5
+527,"['mas', 'lele']",4
+528,['lele'],5
+529,"['mas', 'lele', 'kerpu']",5
+530,"['mas', 'lele', 'mujair']",5
+531,['laut'],7
+532,"['mas', 'mujair', 'lele', 'kerapu']",4
+533,"['mas', 'lele']",5
+534,['lele'],5
+535,"['mas', 'lele']",5
+536,['mas'],5
+537,"['mas', 'lele', 'gurame']",5
+538,['mas'],4
+539,"['lele', 'mas']",5
+540,"['mas', 'lele']",4
+541,['lele'],5
+542,"['mas', 'lele']",5
+543,"['mas', 'gurame', 'lele']",5
+544,"['mas', 'lele']",5
+545,['mas'],4
+546,"['mas', 'lele', 'kerapu', 'cumi-cumi']",6
+547,['mas'],4
+548,"['mas', 'lele']",5
+549,"['cumi-cumi', 'udang']",3
+550,"['mas', 'lele', 'bawal']",4
+551,"['man', 'bawal']",5
+552,['lele'],6
+553,"['lele', 'mujaer', 'nila']",3  3  3 
+554,"['mas', 'lele', 'tongkol']",2  3  2 
+555,"['mas', 'tongkol', 'mujaer', 'lele']",2  2  2  2 
+556,"['tongkol', 'kembung', 'lele', 'kakap']",3  3  2  2 
+557,"['mas', 'mujaer', 'tongkol', 'lele']",2  2  2  2 
+558,"['lele', 'tongkol', 'nila']",10  6  6 
+559,"['mas', 'lele']",8  8 
+560,"['gurame', 'bandeng', 'mas', 'mujair']",8  8  10  8 
+561,"['lele', 'mas', 'mujair']",10  8  8 
+562,['gurame'],8 
+563,"['tongkol', 'lele', 'kakap']",8  10  6 
+564,"['kakap', 'bawal', 'tongkol']",5 6 5
+565,"['tongkol', 'nila', 'bawal']",5 3 6
+566,"['nila', 'bawal']",6 6
+567,"['mas', 'nila', 'tongkol']",2  2  2 
+568,"['lele', 'tongkol', 'mas']",2  2  1 
+569,"['lele', 'mujaer', 'tongkol', 'mas']",2  2  3  2 
+570,"['kembung', 'tingkol', 'lele']",3  2  2 
+571,"['mujaer', 'lele', 'tongkol']",2  2  2 
+572,"['tongkol', 'nila', 'lele', 'mas']",2  2  2  2 
+573,"['lele', 'kembung', 'tongkol']",2  2  2 
+574,"['lele', 'tongkol', 'nila']",2  2  2 
+575,"['tongkol', 'mas', 'nila']",5 5 6
+576,['lele'],10
+577,"['kakap', 'tongkol']",5 3
+578,"['tongkol', 'lele', 'mas']",2  2  2 
+579,['lele'],9
+580,"['kakap', 'kembung', 'tongkol', 'mas']",4 3 5 5
+581,"['lele', 'tongkol', 'nila']",2  2  1 
+582,"['bawal', 'nila', 'mas']",5 5 6
+583,['mas'],8
+584,"['mas', 'lele', 'tongkol']",1  2  2 
+585,"['mas', 'tongkol', 'nila', 'mujaer']",6 5 4 5
+586,"['kembung', 'tongkol', 'lele', 'kakap']",2  2  2  2 
+587,"['nila', 'tongkol']",6 3
+588,['tongkol'],7
+589,"['mas', 'mujaer']",5 4
+590,['lele'],10
+591,"['lele', 'nila']",7 4
+592,"['nila', 'kembung']",3   3 
+593,"['lele', 'nila', 'gurame']",3  2  3 
+594,"['kembung', 'tongkol', 'mas', 'nila']",3   2  2  2 
+595,"['mas', 'lele', 'mujair']",8  7  7 
+596,"['mas', 'lele']",10  8 
+597,"['tongkol', 'nila', 'lele']",5  7  7 
+598,"['tongkol', 'lele', 'nila']",10  8  5 
+599,"['gurame', 'kakap', 'bawal', 'mas']",8  8  8  8 
+600,"['gurame', 'nila', 'patin', 'mas', 'lele', 'kakap', 'pari', 'baracuda', 'kerapu']",5  6  6  8  8  5  3  3  5 
+601,"['tongkol', 'kakap', 'kembung', 'nila']",7  7  7  7 
+602,"['gurame', 'nila', 'patin', 'mas']",6  5  5  10 
+603,"['gurame', 'kakap', 'mas']",8  5  5 
+604,['lele'],4
+605,"['mas', 'lele']",3
+606,['lele'],5
+607,"['mas', 'bawal', 'lele']",5
+608,"['mas', 'gurame', 'lele']",5
+609,['lele'],5
+610,"['mas', 'lele', 'bawal']",5
+611,"['mas', 'lele']",5
+612,['lele'],5
+613,"['mas', 'lele']",5
+614,['laut'],5 
+615,['lele'],3
+616,"['mas', 'lele', 'bawal']",5
+617,['mas'],5
+618,"['mas', 'lele', 'gurame']",6
+619,['lele'],4
+620,['lele'],5
+621,"['kembung', 'tongkol', 'lele', 'kakap']",2  2  2  2  
+622,"['tongkol', 'kembung', 'lele']",3  3  3 
+623,"['mas', 'nila', 'mujaer', 'lele']",2  2  2  2 
+624,"['mas', 'nila', 'tongkol', 'lele']",2  2  3  2 
+625,"['tongkol', 'mas', 'lele']",2  2  2 
+626,"['tongkol', 'mas', 'lele']",2  2  2 
+627,"['lele', 'tongkol', 'nila']",2  2  2 
+628,"['mas', 'lele', 'nila']",1  2  2 
+629,"['tongkol', 'nila', 'mas']",2   2   2 
+630,"['kembung', 'tongkol', 'lele', 'nila']",3   2   3    3  
+631,"['gurame', 'nila', 'lele']",2  3   3 
+632,"['tongkol', 'nila', 'lele']",2   2   2  
+633,"['kembung', 'nila', 'lele']",2   2   3  
+634,"['nila', 'lele', 'gurame', 'kerapu', 'cakalang']",3   3   3  3  3  
+635,"['kembung', 'lele', 'nila']",3   3   3  
+636,"['kembung', 'nila', 'lele']",3    3   3  
+637,"['lele', 'nila', 'kembung']",3   3    3  
+638,"['mas', 'nila']",1-2 
+639,"['mas', 'lele']",rata-rata 2 
+640,"['mas', 'nila', 'merah']",1
+641,"['kakap', 'tongkol', 'nila']",4 5 5
+642,"['bawal', 'nila', 'kakap']",6 5 6
+643,"['nila', 'tongkol']",5 6
+644,"['tongkol', 'kakap']",6 4
+645,"['mas', 'nila', 'merah', 'lele']",2-4
+646,"['mas', 'gurami']",1
+647,"['lele', 'nila']",1-2
+648,"['mas', 'lele']",1
+649,"['mas', 'nila', 'merah', 'gurame', 'lele']",5-5 5
+650,"['mas', 'lele', 'nila', 'merah']",2
+651,['lele'],2-3
+652,['lele'],2
+653,['lele'],2
+654,['mas'],1
+655,"['mas', 'lele']",2-3
+656,['lele'],9
+657,"['tongkol', 'kakap', 'kembung']",5 4 4
+658,"['tongkol', 'mas', 'mujaer']",5 6 4
+659,['lele'],10
+660,"['mas', 'mujair']",1 5-2
+661,"['tongkol', 'nila']",5 6
+662,['tongkol'],7
+663,"['mas', 'mujaer']",5 3
+664,"['nila', 'tongkol']",5 7
+665,['lele'],8
+666,"['tongkol', 'lele']",4 4
+667,"['nila', 'kakap', 'mas']",5 6 5
+668,"['kembung', 'lele', 'mas']",2   2   2  
+669,"['tongkol', 'nila', 'mas', 'lele']",2   2   2   2  
+670,"['kembung', 'nila', 'mas', 'lele']",3   3  3  3 
+671,"['lele', 'nila', 'kembung', 'mas']",3   3   3  3  
+672,"['mas', 'lele']",2   2  
+673,"['kembung', 'lele', 'kakap']",3   3   2  
+674,"['lele', 'nila', 'kembung']",3   3   3 
+675,"['kembung', 'nila', 'lele']",3   3   3  
+676,"['lele', 'nila', 'mas', 'kembung', 'tongkol']",2   2   2   2  3  
+677,"['tongkol', 'nila']",2    2  
+678,"['nila', 'tongkol']",3   3  
+679,"['lele', 'tongkol', 'nila']",2   2   2  
+680,"['nila', 'tongkol', 'kakap']",2   2   1  
+681,"['kakap', 'lele', 'kembung', 'nila']",2   3   3   2  
+682,"['kakap', 'nila', 'kembung', 'tongkol']",2   3    3   3  
+683,"['lele', 'nila']",3   3  
+684,"['lele', 'kembung', 'nila']",3   3   3  
+685,"['tongkol', 'kembung']",3   3  
+686,"['gurame', 'nila', 'mas']",5   6   6  
+687,"['lele', 'kembung', 'kakap']",3   3   2  
+688,"['mas', 'lele']",2-3
+689,"['lele', 'mas', 'nila', 'merah']",2
+690,"['mas', 'lele', 'bawal']",1-2
+691,"['mas', 'mujair']",1 5  
+692,"['mas', 'nila']",masing-masing 1  
+693,"['mas', 'lele']",1/2 
+694,"['mas', 'bawal', 'lele']",3
+695,"['mas', 'lele']",1 
+696,"['mas', 'nila', 'merah', 'gurame']",1-2
+697,"['mas', 'lele', 'nila', 'bawal']",5
+698,['lele'],3  
+699,"['mas', 'lele']",1-1 5
+700,['lele'],2-3
+701,"['mas', 'lele', 'mujair']",1 1/2
+702,['lele'],3
+703,"['mas', 'lele']",1 1/2 
+704,"['kakap', 'kembung']",5 5
+705,"['kembung', 'bawal']",4 6
+706,"['bawal', 'nila', 'kakap']",5 4 4
+707,['lele'],10
+708,"['kakap', 'kembung']",6 3
+709,"['tongkol', 'mas']",5 6
+710,['lele'],9
+711,"['mas', 'lele']",5 6
+712,['lele'],10
+713,['lele'],9
+714,['lele'],7
+715,"['nila', 'bawal', 'kakap']",5 5 5
+716,"['mas', 'mujaer']",6 4
+717,"['mas', 'mujaer', 'tongkol']",4 3 3
+718,"['tongkol', 'mas']",4 4
+719,"['tongkol', 'mujaer', 'mas', 'nila']",2   2    2  2  
+720,"['tongkol', 'kembung', 'lele', 'kakap']",2  2  2  2 
+721,"['mas', 'tongkol', 'nila']",2  2  1 
+722,"['tongkol', 'mas', 'lele', 'nila']",2  2  2  2  
+723,"['mas', 'tongkol', 'lele', 'nila']",2  2  2  2 
+724,"['lele', 'kerapu', 'kakap', 'gurame']",3  3  3  3 
+725,"['kakap', 'lele', 'tongkol', 'kembung']",2  2  2  3 
+726,"['mas', 'tongkol', 'kembung']",2  2  2  
+727,"['kakap', 'kembung', 'tongkol', 'lele', 'mujaer']",2  3  3  2  2 
+728,"['mas', 'tongkol', 'mujaer', 'lele', 'nila']",2  2  2  2  2  
+729,"['tongkol', 'kembung', 'lele']",3  3  2 
+730,"['mas', 'nila', 'lele', 'tongkol']",2  2  2  2 
+731,"['mas', 'tongkol', 'nila']",2  2  2 
+732,"['lele', 'mas', 'mujaer', 'tongkol']",2  2  2  2  
+733,['lele'],5 
+734,"['kembung', 'tongkol', 'lele', 'kakap']",3  3  2  2 
+735,"['tongkol', 'kembung', 'lele', 'kakap', 'nila']",3  3  2  2  2 
+736,"['mas', 'mujaer']",5 4
+737,"['lele', 'nila']",6 3
+738,"['tongkol', 'kakap', 'nila']",5 4 4
+739,"['nila', 'bawal', 'lele']",6 5 5
+740,"['kakap', 'kembung']",6 3
+741,"['tongkol', 'nila']",5 6
+742,"['mas', 'mujaer', 'tongkol']",4 5 5
+743,['lele'],10
+744,['mas'],6 
+745,"['mas', 'mujaer', 'nila']",6 4 4
+746,"['mas', 'nila', 'kakap']",5 4 4
+747,"['mas', 'mujaer']",6 5
+748,"['nila', 'lele']",5 t
+749,"['mas', 'mujaer', 'tongkol']",5 4 4
+750,"['mas', 'nila', 'kakap']",5 5 4
+751,"['tongkol', 'mas', 'lele']",6 4 4
+752,"['mas', 'mujaer']",4 4
+753,"['tongkol', 'nila']",5 5
+754,"['nila', 'kakap']",5 4
+755,"['mas', 'lele', 'tongkol']",5  5  5 
+756,"['tongkol', 'lele', 'nila']",6  5  5 
+757,"['mas', 'lele']",6  6 
+758,"['tongkol', 'lele']",5  7 
+759,['lele'],8 
+760,"['tongkol', 'lele', 'nila']",7  7  5 
+761,['lele'],10  
+762,"['tongkol', 'lele']",6  6 
+763,"['lele', 'tongkol', 'nila']",7  5  5 
+764,"['lele', 'tongkol']",6  6 
+765,"['tongkol', 'lele', 'nila', 'mas']",5  6  4  6 
+766,"['tongkol', 'lele']",4  5 
+767,"['mas', 'lele', 'nila']",5  5  4 
+768,"['bawal', 'kakap', 'mas']",5  5  5 
+769,"['tongkol', 'lele', 'nila']",6  6  4 
+770,"['mas', 'lele', 'nila']",7  7  5 
+771,"['tongkol', 'lele']",5  7 
+772,['lele'],10  
+773,"['tongkol', 'lele', 'nila']",7  7  5 
+774,"['mujair', 'nila', 'bawal', 'mas']",6  5  5  7 
+775,"['tongkol', 'lele']",7  6 
+776,"['tongkol', 'lele', 'nila']",6  6  5 
+777,"['mas', 'tongkol']",6  5 
+778,"['tongkol', 'lele']",5  5 
+779,"['lele', 'tongkol', 'nila']",7  7  6 
+780,"['tongkol', 'lele', 'nila']",6  5  5 
+781,"['mas', 'lele', 'bawal']",2 5
+782,"['mas', 'mujair']",1-1/2 
+783,"['mas', 'lele', 'bawal', 'gurame', 'kerapu']",5-6
+784,"['lele', 'nila', 'laut']",2-3
+785,['laut'],3-3 5
+786,"['mas', 'lele', 'nila', 'merah']",3  
+787,"['mas', 'mujair']",1-2
+788,['lele'],2-3
+789,"['ikn', 'mas', 'mujair']",1-1 5
+790,"['mas', 'impun']",1/2  
+791,"['mas', 'bawal', 'salem', 'bandeng']",5
+792,"['mas', 'bawal']",2
+793,['lele'],3
+794,"['mas', 'lele', 'nila']",2-3  
+795,"['mas', 'dan', 'bawal']",1   masing masing
+796,"['mas', 'lele', 'bawal', 'salem']",3
+797,['lele'],2-3
+798,['laut'],5
+799,"['mas', 'lele', 'bawal']",2-3
+800,"['mas', 'bawal', 'lele', 'gurame', 'bandeng', 'nila', 'merah']",5-6
+801,"['mas', 'dan', 'mujair']",1-2  
+802,['laut'],5
+803,"['mas', 'lele', 'bawal']",2-3
+804,"['mas', 'lele', 'muajir', 'gurame']",3
+805,"['lele', 'mujair', 'laut']",2-4  
+806,"['mas', 'lele', 'bawal']",3  
+807,['lele'],2 
+808,"['mas', 'lele']",4 
+809,['kele'],3-4  
+810,"['mas', 'bawal', 'gurame', 'nila', 'kerapu']",5-6  
+811,"['lele', 'tongkol', 'mas', 'nila']",2   2   2  2 
+812,"['tongkol', 'nila', 'mas']",3   2   2 
+813,"['lele', 'kakap', 'mas', 'nila']",3  3  3  3 
+814,"['lele', 'tongkol', 'nila']",3   3   3  
+815,"['kakap', 'nila', 'mas', 'tongkol']",2   3   3   3 
+816,"['nila', 'mas', 'tongkol']",3   3   3  
+817,"['lele', 'mas', 'tongkol']",3   3   3 
+818,"['lele', 'tongkol', 'nila']",2   3   2  
+819,"['tongkol', 'nila', 'mas']",3  3  3  
+820,['mas'],1-2
+821,"['mas', 'lele', 'bawal', 'nila', 'bandeng', 'tongkol']",3-5 
+822,"['mas', 'lele', 'mujair']",1-2  
+823,"['mas', 'tongkol', 'bawal']",2
+824,"['mas', 'lele', 'bawal', 'kakap']",4-5
+825,"['lele', 'dan', 'mujair']",2
+826,['mas'],1
+827,"['mas', 'lele', 'mujair']",2-3  
+828,"['mas', 'nila', 'bawal']",2-3
+829,"['mas', 'dan', 'lele']",2
+830,"['mas', 'dan', 'mujair']",2-2 5
+831,"['mas', 'bawal', 'nila', 'kakap']",2-3
+832,['lele'],2-3
+833,"['mas', 'mujair']",2
+834,"['mas', 'bawal', 'lele', 'mujair']",5
+835,"['mas', 'lele', 'nila', 'merah', 'bawal', 'gurame']",5
+836,"['mas', 'lele', 'mujair', 'bawal', 'tongkol']",2-3  
+837,['lele'],3  
+838,['lele'],4  
+839,"['lele', 'nila', 'mas', 'kakap']",2   3 jg 3   2  
+840,"['nila', 'mas', 'mujaer']",e  3   3 
+841,"['kerapu', 'lele', 'kakap', 'nila']",3  3  3   2 
+842,"['lele', 'mas', 'nila']",3  3   3  
+843,"['tongkol', 'mas']",3   3  
+844,"['lele', 'kembung', 'nila']",3   3   3  
+845,['lele'],4  
+846,['lele'],4  
+847,"['tongkol', 'nila']",3   3  
+848,['lele'],5  
+849,"['tongkol', 'nila']",3   2  
+850,"['lele', 'bawal']",3  3  
+851,"['tongkol', 'mas']",3   3  
+852,"['kembung', 'lele', 'mas']",3   3  3 
+853,"['mas', 'mujaer']",6 4
+854,"['mas', 'tongkol']",5 3
+855,"['mas', 'mujaer', 'nila']",5 4 4
+856,"['tongkol', 'nila', 'lele']",5 4 5
+857,['lele'],10
+858,"['tongkol', 'nila']",4 4
+859,"['tongkol', 'lele', 'bawal']",5 3 5
+860,"['mas', 'mujaer', 'tongkol']",5 4 5
+861,"['mas', 'mujaer']",5 5
+862,['mas'],8
+863,"['tongkol', 'nila']",4 5
+864,"['mas', 'mujaer', 'tongkol', 'nila']",5 4 4 3
+865,"['tongkol', 'bawal', 'nila']",4 4 5
+866,"['lele', 'nila', 'tongkol']",4 4 6
+867,"['tongkol', 'nila']",5 3
+868,"['tngkol', 'nila']",3   2  
+869,"['kembung', 'lele']",3   3  
+870,"['lele', 'kembung', 'nila']",2   3   2  
+871,['lele'],4  
+872,"['kembung', 'lele', 'mas']",3   2   2  
+873,['lele'],5  
+874,"['kembung', 'lele']",3   2  
+875,['lele'],4  
+876,"['tongkol', 'mas']",2   2 
+877,['lele'],4  
+878,"['kembung', 'lele']",3   3  
+879,"['kembung', 'nila']",3   3  
+880,"['lele', 'tongkol', 'nila', 'mas']",5   5   5   5  
+881,"['kembung', 'nila']",3   3  
+882,['lele'],5  
+883,"['tongkol', 'nil']",3   3  
+884,['lele'],4  
+885,"['gurame', 'nila', 'mas']",4   5   5  
+886,['lele'],5  
+887,['lele'],5  
+888,['lele'],4  
+889,"['tongkol', 'nila']",3   3  
+890,"['kembung', 'lele', 'nila']",3   3   3  
+891,['lele'],5  
+892,"['tongkol', 'mas', 'nila']",3   3   3  
+893,"['lele', 'nila', 'mas']",3   3    3  
+894,['lele'],4  
+895,['lele'],5  
+896,"['kembung', 'lele']",3   3 
+897,"['kembung', 'nila', 'lele']",3   3   3  
+898,['lele'],4  
+899,"['kembung', 'lele', 'nila']",3   3   3 
+900,"['lele', 'mas']",3   3  
+901,"['lele', 'kembung']",3   4  
+902,"['lele', 'kembung']",2   3  
+903,"['kembung', 'lele', 'nila']",3   2   2  
+904,"['tongkol', 'nila']",3   3  
+905,"['tongkol', 'nila']",3   3  
+906,"['tongkol', 'nila']",4   3  
+907,"['nila', 'mas']",3   3  
+908,['lele'],5  
+909,"['lele', 'kembung', 'nila']",3   3   3  
+910,"['tongkol', 'nila']",3   3  
+911,"['bawal', 'nila', 'mas', 'gurame']",5   4   4   5  
+912,"['kembung', 'nila']",4   3  
+913,['lele'],5  
+914,"['mas', 'mujaer']",6 3
+915,"['tongkol', 'nila']",5 3
+916,"['mas', 'nila', 'bawal']",5 3 3
+917,"['mas', 'mujaer', 'nila']",5 4 4
+918,"['mas', 'bawal', 'gurame', 'tongkol', 'nila']",5-6
+919,"['mas', 'mujaer', 'lele']",3 3 2
+920,['lele'],8
+921,['lele'],2
+922,"['tongkol', 'bawal', 'nila']",5 3 3
+923,"['mas', 'lele', 'nila', 'bawal']",5
+924,"['nila', 'lele']",3 5
+925,"['mas', 'dan', 'mujair']",2-3
+926,"['tongkol', 'mas']",3 5
+927,"['mas', 'dan', 'lele']",2
+928,['lele'],7
+929,"['mas', 'mujaer', 'nila']",5 4 4
+930,"['mas', 'lele', 'bawal', 'gurame', 'kerapu']",5
+931,"['lele', 'nila']",6 3
+932,['lele'],8
+933,"['laut', 'dan', 'lele']",3-4
+934,['lele'],9
+935,"['bawal', 'lele', 'gurame']",3-5
+936,"['tongkol', 'mas']",5 4
+937,['lele'],2-3
+938,['laut'],5-6
+939,['laut'],4-5
+940,['lele'],2-3
+941,"['mas', 'nila']",3-4  
+942,"['mas', 'lele', 'mujair']",2  per
+943,"['lele', 'laut']",5  
+944,['lele'],5  
+945,"['mas', 'dan', 'lele', 'nila']",3
+946,"['mas', 'lele', 'gurame', 'nila', 'tongkol']",5
+947,"['mas', 'gurame', 'dan', 'lele']",4-4 5
+948,"['mas', 'dan', 'lele']",2-3  
+949,"['mas', 'lele', 'nilem', 'gurame']",3-4
+950,"['mas', 'bawal', 'bandeng', 'nila', 'salem']",7-8
+951,"['mas', 'dan', 'lele']",2-3
+952,['laut'],5
+953,['lele'],3
+954,['lele'],5
+955,"['bawal', 'mas', 'nila']",3-4
+956,"['mas', 'lele', 'mujair']",2-3
+957,"['bawal', 'gurame', 'salem']",3-4
+958,['lele'],2-3
+959,['laut'],5-6
+960,"['mas', 'lele', 'nila', 'kerapu', 'bawal', 'gurame']",8-9
+961,"['lele', 'nila', 'bawal']",4   4   4  
+962,['lele'],5  
+963,"['tongkol', 'nila']",4   3  
+964,"['kembung', 'lele']",4   3  
+965,"['kembung', 'nila']",4   3  
+966,['lele'],4  
+967,"['tongkol', 'mas']",3   3  
+968,"['tongkol', 'nila']",3   3  
+969,"['kembung', 'lele']",4   3  
+970,['lele'],4  
+971,"['tongkol', 'nila']",3   3  
+972,"['kembung', 'lele']",3   3  
+973,"['kembung', 'lele']",3   3  
+974,"['tongkol', 'mas']",3   3  
+975,['lele'],5  
+976,"['tongkol', 'kakap', 'nila']",5 3 3
+977,"['lele', 'nila', 'bawal']",4 5 5
+978,"['mas', 'mujaer', 'nila']",6 3 3
+979,"['mas', 'mujaer', 'lele']",5 4 5
+980,"['tongkol', 'kembung']",5 4
+981,"['mas', 'mujaer', 'nila', 'bawal']",5 3 5 4
+982,"['mas', 'mujaer']",5 5
+983,"['mas', 'nila', 'bawal']",4 5 5
+984,['lele'],7
+985,"['tongkol', 'lele']",5 4
+986,"['mas', 'mujaer', 'lele']",3 3 2
+987,"['tongkol', 'nila']",5 3
+988,"['tongkol', 'lele', 'nila']",4 3 3
+989,['lele'],9
+990,"['mas', 'mujaer']",3 3
+991,"['tongkol', 'nila']",4 3
+992,"['mas', 'dan', 'lele', 'nila']",2-3  
+993,"['bawal', 'lele', 'mujair', 'nila', 'kerapu']",3
+994,"['mas', 'mujair', 'lele']",2-3
+995,['lele'],3-4
+996,"['mas', 'bawal', 'nila', 'gurame', 'tongkol', 'salem']",5
+997,['laut'],6-8
+998,['laut'],6-7
+999,"['lele', 'mas']",3
+1000,['lele'],5
+1001,"['lele', 'mas', 'bawal', 'gurame', 'kerapu', 'salem', 'bandeng']",5-7  
+1002,['laut'],5-6
+1003,['laut'],8-9
+1004,"['mas', 'bawal', 'nila']",3-5
+1005,"['laut', 'dan', 'lele']",9-10
+1006,['laut'],6-7
+1007,"['mas', 'tongkol', 'bawal', 'mujair']",5
+1008,"['tongkol', 'nila']",4 5
+1009,"['nila', 'bawal', 'lele']",5 4 4
+1010,"['tongkol', 'bawal', 'lele']",4 4 3
+1011,['lele'],8
+1012,['lele'],7
+1013,"['tongkol', 'nila']",5 5
+1014,"['lele', 'tongkol', 'nila']",4 2 6
+1015,['lele'],6
+1016,['lele'],7
+1017,"['mas', 'mujaer']",6 5
+1018,['lele'],6
+1019,"['tongkol', 'nila', 'bawal', 'kakap']",5 3 3 4
+1020,"['mas', 'mujaer', 'nila', 'bawal', 'kakap']",4 3 3 4 3
+1021,"['mas', 'mujaer']",5 4
+1022,['lele'],9
+1023,"['tongkol', 'nila', 'kakap', 'bawal', 'kembung']",5 3 4 3 3
+1024,"['mas', 'dan', 'muajir']",2-3 
+1025,"['mas', 'bawal', 'lele']",3 
+1026,"['tongkol', 'kakap']",5 6
+1027,"['mas', 'mujair', 'dan', 'bawal']",3-4
+1028,"['kakap', 'lele', 'bawal']",3 4 4
+1029,['lele'],5-7 
+1030,"['mas', 'mujaer', 'nila']",5 4 4
+1031,"['mas', 'mujaer']",5 3
+1032,"['mas', 'dan', 'lele', 'mujair']",4  
+1033,"['mas', 'lele', 'nila', 'mujaer']",4 4 3 4
+1034,"['kerapu', 'etong', 'bawal', 'gurami', 'nila', 'merah']",5-7
+1035,"['tongkol', 'kakap']",4 3
+1036,['mas'],6
+1037,"['mas', 'bawal', 'lele', 'nila', 'merah', 'dan', 'hitam']",5 
+1038,"['mas', 'nila']",5 3
+1039,"['mas', 'bawal', 'tongkol', 'tenggiri', 'lele']",3-5  
+1040,"['nila', 'kakap', 'kembung']",5 3 3
+1041,"['mas', 'lele', 'mujair']",3-4 5
+1042,"['tongkol', 'bawal']",4 4
+1043,"['mas', 'bawal', 'gurame', 'nila', 'lele', 'salem']",5 
+1044,"['bawal', 'nila', 'tongkol']",5 3 5
+1045,"['mas', 'lele', 'dan', 'mujair']",3  
+1046,"['mas', 'bawal', 'mujaer', 'kakap']",5 5 3 4
+1047,"['mas', 'lele', 'bawal', 'tongkol', 'salem', 'nila']",5
+1048,['tongkol'],5
+1049,['lele'],3 
+1050,"['mas', 'mujaer']",5 5
+1051,"['mas', 'lele', 'bawal', 'mujair']",5
+1052,"['tongkol', 'nila']",4 5
+1053,"['mas', 'lele', 'tongkol']",4 
