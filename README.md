@@ -1,5 +1,5 @@
 # efishery-DE-task
-contain task from DATA ENGINEERING EFISHERY
+this project contains pipelining using airflow and make wrangling data automatically using python that run on bash shell
 
 
 
